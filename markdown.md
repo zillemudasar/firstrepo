@@ -70,16 +70,16 @@ This is the link of open AI chat GPT [click here](https://chat.openai.com/chat)
 # 9- adding Images
 this image is used for testing and linking URL.
 
-<!-- [![img](MOD.png)](https://chat.openai.com/chat) -->
-PDF file [here](python.pdf)
-<!-- [img](python.pdf) -->
+<!-- [![img](MOD.png)](https://chat.openai.com/chat) 
+PDF file [here](python.pdf)-->
+<!-- [img](python.pdf) 
 
 online picture: 
 
 ![image](https://www.google.com/search?q=data+science&sxsrf=AJOqlzUBL11lyPMmXhdwwcmAGZw2L0K26Q:1675074098490&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiht_Okie_8AhXC6aQKHUfECAcQ_AUoAXoECAEQAw&biw=1366&bih=625&dpr=1#imgrc=FtxxsWlI84L8pM)
 
 ![pic2](https://www.google.com/search?q=data+science+image+low+face&tbm=isch&ved=2ahUKEwjl34Kmie_8AhUymicCHcCeBW4Q2-cCegQIABAA&oq=data+science+image+low+face&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQQzoFCAAQgAQ6BAgAEB46BggAEAUQHjoGCAAQCBAeUNIEWJumAWDDrgFoAXAAeACAAY4EiAHoK5IBCTItOC42LjIuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=NJrXY-X1MrK0nsEPwL2W8AY&bih=625&biw=1366#imgrc=llJHVZ7c25iVQM)
-
+-->
 # 10- Adding code and code block
 
 this is a adding code `print("zille")`
