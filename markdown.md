@@ -7,9 +7,9 @@
 ## [3- line_break](#3--line-break)
 ## [4- combine](#4--combine-heading-and-block-of-word)
 ## [5- bold_italic](#5--bold-and-italic)
-## [6- bullets](#6--bullet-points-and-lists)
+## [6- bullets_style](#6--bullet-points-and-lists)
 ## [7- line_break](#7--line-break-or-page-break)
-## [8- links](#8--links-and-hyperlinks)
+## [8- links and hyperlinks](#8--links-and-hyperlinks)
 ## [9- image](#9--adding-images)
 ## [10- Adding code/block code](#10--adding-code-and-code-block)
 ## [11- Tables](#11--adding-tables)
@@ -104,7 +104,7 @@ this is a adding code `print("zille")`
 
 _**my name is zille**_
 
-## [crypto](https://www.binance.com/en/markets/spot-USDT)
+## [github_id](https://github.com/zillemudasar)
 
 ```python
 print(z)
