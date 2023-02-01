@@ -34,7 +34,7 @@ For line break we use reverse line sign. \
 
 # 6- bullet points and lists
 ## skills
-> BOLD K LIA HM + OR * SIGN B USE KR SKTY HY
+> BOLD K LIA HM (+) OR (*) SIGN B USE KR SKTY HY
 - HTML
     - HTML3
         - HTML 5
