@@ -9,7 +9,7 @@
 ## [5- bold_italic](#5--bold-and-italic)
 ## [6- bullets_style](#6--bullet-points-and-lists)
 ## [7- line_break](#7--line-break-or-page-break)
-## [8- links and hyperlinks](#8--links-and-hyperlinks)
+## [8- links & hyperlinks](#8--links-and-hyperlinks)
 ## [9- image](#9--adding-images)
 ## [10- Adding code/block code](#10--adding-code-and-code-block)
 ## [11- Tables](#11--adding-tables)
